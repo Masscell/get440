@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+# get440
+an ecommerce product display page
+>>>>>>> 47f9c69664faf8aeff9bfd3b54a761ff97e813ac
 # get440 E-commerce
 
 A modern, premium e-commerce application featuring 3D animations, glassmorphism design, and a vibrant orange gradient theme.
